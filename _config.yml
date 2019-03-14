@@ -7,7 +7,11 @@ title: Moje webové sídlo
 description: Tu sa nachádzajú moje profesné a osobné záujmy
 
 navbar-links:
-  About Me: "aboutme"
+  O mne: "aboutme"
+  CV: "cv"
+  Dokumentácia: "dokumentacia"
+  Developerský profil: "developerprofil"
+  Hobby: "hobby"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
