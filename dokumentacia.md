@@ -1,5 +1,5 @@
 ---
 layout: page
-title:Dokumentácia
+title: Dokumentácia
 subtitle: Tu sa nachádza dokumentácia projektu
 ---
