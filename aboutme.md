@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: O mne
+subtitle: Prečo som si vybrala IT odbor
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Volám sa Veronika Čipelová a študujem na STU, presnejšie na fakulte FIIT.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Na STU som sa prihlásila pretože ma vždy zaujímalo ako veci fungujú, keďže som zvedavý človek. Teraz som v bakalárskom ročníku a technológie už pre mňa nie sú čarovnou záhadou ako kedysi. Už viem, že s dostatkom času a dedikácie sa dá naučiť čokoľvek, čo je podľa mňa najcennejšia schopnosť, ktorú STU môže dať študentom. Technológie sa stále menia a vyvíjajú, ale princíp zostáva - pozrieť si dokumentáciu, nájsť tutoriály a experimentovať až dovtedy, kým daný jazyk/knižnicu/softvér/atď človek neovláda.
 
-What else do you need?
+Ďalším dôvodom prečo je pre mňa IT odbor atraktívny mimo mojej zvedavosti je možnosť vytvoriť si to čo človek potrebuje a na trhu to nie je, či už aplikáciu na mobil na sledovanie nálady alebo skript na posielanie mailov. V súčasnosti som sa do žiadneho podobného projektu ešte nepustila, ale mám už pár nápadov.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Okrem techniky ma vždy zaujímalo aj umenie a literatúra, čo chcem v budúcnosti určite tiež využiť, naskôr pri vytvorení vlastnej hry. Ak si chcete prečítať viac o mojich záujmoch, nájdete ich v sekcii Hobby.
